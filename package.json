@@ -3,7 +3,7 @@
     "view": "zenn preview"
   },
   "dependencies": {
-    "zenn-cli": "^0.1.119"
+    "zenn-cli": "^0.1.134"
   },
   "licence": "UNLICENCED",
   "private": true
